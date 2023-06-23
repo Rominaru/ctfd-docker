@@ -1,1 +1,1 @@
-FROM leuthra/ctfd
+FROM ctfd/leuthra
